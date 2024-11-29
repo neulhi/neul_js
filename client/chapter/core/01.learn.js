@@ -1184,5 +1184,8 @@ console.clear();
     const message = num ?? 'undefined';
     console.log(message);
   }
-	console.clear();
+  console.clear();
 }
+
+/* -------------------------------------------------------------------------- */
+
