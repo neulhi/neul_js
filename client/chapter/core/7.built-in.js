@@ -43,8 +43,11 @@ console.clear();
   const currentTime = () => console.log(now());
 
   // 1초마다 currentTime 호출
-  const intervalTime = setInterval(currentTime, 1000);
+  // const intervalTime = setInterval(currentTime, 1000);
 
   // 5초 후 인터벌 중지
-  setTimeout(() => clearInterval(intervalTime), 5000);
+  // setTimeout(() => clearInterval(intervalTime), 5000);
 }
+console.clear();
+
+/* -------------------------------------------------------------------------- */
